@@ -1,2 +1,3 @@
+name="Miguel Angel"
 msg = "Hello World"
-print(msg)
+print(msg, name)
